@@ -1,15 +1,6 @@
 ## Anton Vopilov
 
-👋 Hi, I’m @antvopilov.
-
 email: antvopilov@gmail.com
-
-
-## Science. Climb. Code.
-
-### Current projects
-
- - Neutrino Cosmology
 
 
 <!---
