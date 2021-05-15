@@ -1,16 +1,14 @@
 # Anton Vopilov
 
+## Contacts
+
 email: antvopilov@gmail.com
-
-
-<!---
-antvopilov/antvopilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## Projects
 
-- Math Animation
+Math Animation
 
-- Research Assistant
+Research Assistant
+
+Neutrino Cosmology
 
