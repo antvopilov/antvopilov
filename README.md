@@ -1,5 +1,3 @@
-# antvopilov
-
 ## Anton Vopilov
 
 email: antvopilov@gmail.com
