@@ -6,16 +6,10 @@ email: antvopilov@gmail.com
 
 website: https://antvopilov.github.io/
 
----
+book: https://github.com/antvopilov/theoretical-physics
 
-## Projects
+research: https://github.com/antvopilov/research
 
-[Research Map](https://github.com/antvopilov/research)
+collections: https://github.com/antvopilov/collections
 
-## Templates
-
-
-## Collections
-
-[Collections](https://github.com/antvopilov/collections)
 
