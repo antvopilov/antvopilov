@@ -1,13 +1,11 @@
-## Anton Vopilov
+# Anton Vopilov
 
 email: antvopilov@gmail.com
 
-website: https://antvopilov.github.io/
+## Quick Start
 
-book: https://github.com/antvopilov/theoretical-physics
+[Research Book](https://antvopilov.github.io/research-book/)
 
-research: https://github.com/antvopilov/research
-
-collections: https://github.com/antvopilov/collections
+[System Setup](https://github.com/antvopilov/system-setup)
 
 
