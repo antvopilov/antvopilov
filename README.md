@@ -1,9 +1,8 @@
 # Anton Vopilov
 
 email: antvopilov@gmail.com
+website: antvopilov.github.io
 
-[Research Book](https://antvopilov.github.io/research-book/)
-
-[System Setup](https://github.com/antvopilov/system-setup)
+[antvopilov.github.io - GitHub](https://github.com/antvopilov/antvopilov.github.io)
 
 
